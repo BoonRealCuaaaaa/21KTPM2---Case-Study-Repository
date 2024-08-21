@@ -1,0 +1,11 @@
+title,description,assignee,severity,priority,environment,step
+Defect A,Descript,1,Normal,Highest,Production,1. Do nothing
+Defect B,UI glitch in dashboard view,1,Normal,Highest,Production,1. Navigate to dashboard 2. Observe layout
+Defect C,Incorrect total displayed in cart,1,Normal,Highest,Production,1. Add multiple items to cart 2. Check total amount
+Defect D,Slow response time on login,1,Normal,Highest,Production,1. Enter valid credentials 2. Click login
+Defect E,Error message not displayed for invalid input,1,Normal,Highest,Production,1. Input invalid data 2. Submit form
+Defect F,Feature toggle not working,1,Normal,Highest,Production,1. Toggle feature on 2. Check feature availability
+Defect G,Missing labels in settings page,1,Normal,Highest,Production,1. Open settings 2. Observe label positions
+Defect H,Incorrect time zone conversion,1,Normal,Highest,Production,1. Set time zone 2. Check converted time
+Defect I,Unresponsive button on homepage,1,Normal,Highest,Production,1. Navigate to homepage 2. Click specific button
+Defect J,Data mismatch in report generation,1,Normal,Highest,Production,1. Generate report 2. Compare with expected data

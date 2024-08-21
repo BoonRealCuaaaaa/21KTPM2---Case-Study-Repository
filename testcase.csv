@@ -1,0 +1,11 @@
+title,desc,status,priority,severity,suite,pre,post,step,expectedResult
+Test feature A,A smoke test for feature A,Actual,High,Normal,2,Finish unit test,Finish smoke test,1. Input the field 2. Click submit,Send the form to the backend
+Test feature B,A smoke test for feature B,Actual,High,Normal,2,Verify feature dependencies,Validate output,1. Enter valid data 2. Click submit,Data processed and stored
+Test feature C,A smoke test for feature C,Actual,High,Normal,2,Ensure prerequisites are complete,Clean up test data,1. Fill in required fields 2. Click save,Record saved successfully
+Test feature D,A smoke test for feature D,Actual,High,Normal,2,Load initial test data,Verify data integrity,1. Select item 2. Click delete,Item removed from the list
+Test feature E,A smoke test for feature E,Actual,High,Normal,2,Check system status,Generate report,1. Open settings 2. Change configuration,Configuration updated
+Test feature F,A smoke test for feature F,Actual,High,Normal,2,Backup existing data,Restore data,1. Enter search term 2. Click search,Relevant results displayed
+Test feature G,A smoke test for feature G,Actual,High,Normal,2,Initialize components,Shutdown system,1. Start application 2. Log in with valid credentials,User successfully logged in
+Test feature H,A smoke test for feature H,Actual,High,Normal,2,Activate feature toggle,Deactivate feature toggle,1. Upload file 2. Confirm upload,File uploaded and visible in list
+Test feature I,A smoke test for feature I,Actual,High,Normal,2,Prepare testing environment,Revert environment to baseline,1. Input parameters 2. Execute command,Command executed with expected output
+Test feature J,A smoke test for feature J,Actual,High,Normal,2,Verify user permissions,Log test results,1. Select date range 2. Generate report,Report generated successfully
