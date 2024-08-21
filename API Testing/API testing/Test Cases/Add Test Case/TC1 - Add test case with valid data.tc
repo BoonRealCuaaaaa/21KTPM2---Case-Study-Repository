@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1 - Add test case with valid data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4561bcfb-94aa-48e6-bb88-64d22327fe72</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6 - Add defect with invalid severity</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>feb4a9fc-a377-4834-a563-2dadf53e2327</testCaseGuid>
+</TestCaseEntity>

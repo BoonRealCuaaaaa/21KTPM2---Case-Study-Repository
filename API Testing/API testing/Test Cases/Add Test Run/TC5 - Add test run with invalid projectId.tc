@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5 - Add test run with invalid projectId</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9d238a5-609a-4860-8837-d06f074b709d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4 - Add test run with invalid run type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8621d3b7-9d08-450a-a8a4-027c4d71f4d3</testCaseGuid>
+</TestCaseEntity>

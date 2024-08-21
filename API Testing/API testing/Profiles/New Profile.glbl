@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>New Profile</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>cookie</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'This is a test text snippet with 256 characters, including spaces. The purpose of this text snippet is to allow you to verify that your system can correctly handle names with the maximum allowed length. You can copy and paste this text snippet into the nau'</initValue>
+      <name>char256</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

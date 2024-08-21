@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC9 - Add defect with long title</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd25ae1f-192b-4107-9749-4fe290339a42</testCaseGuid>
+</TestCaseEntity>

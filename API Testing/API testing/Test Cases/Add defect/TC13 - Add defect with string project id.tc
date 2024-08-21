@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13 - Add defect with string project id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df90ec8f-c935-4193-a080-0f9472abf330</testCaseGuid>
+</TestCaseEntity>

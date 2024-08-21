@@ -1,0 +1,260 @@
+[
+    {
+        "name": "EC1: 1 <= Name length <=255\nEC4: Name is a text\nEC6: Type is Manual\nEC9: Description is a text\nEC11: Environment is exists\nEC17: Assignee is exists\nEC19: Tags is in [Manual, Automation]\nEC21: Output is begin test run, executed by tester\nEC26: Name is ASCII text\nEC29: Description is ASCII text\nEC32: Test case is in existing test case",
+        "testRunName": "Test run 01",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Create a test run"
+    },
+    {
+        "name": "EC2: Name Length > 255",
+        "testRunName": "This is a test text snippet with 256 characters, including spaces. The purpose of this text snippet is to allow you to verify that your system can correctly handle names with the maximum allowed length. You can copy and paste this text snippet into the nau",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Raise error"
+    },
+    {
+        "name": "EC3: Name length < 1",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Raise error"
+    },
+    {
+        "name": "EC5: Name is HTML code",
+        "testRunName": "<h1>Test run 01<\/h1>",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Create a test run, without HTML effect"
+    },
+    {
+        "name": "ẸC7: Type is Automation\nEC22: Output is test result after automated testing",
+        "testRunName": "Test run 01",
+        "type": "Automation",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Create a test run"
+    },
+    {
+        "name": "EC8: Type is not int [Manual, Automation]",
+        "testRunName": "Test run 01",
+        "type": "Hybrid",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Raise error"
+    },
+    {
+        "name": "EC10: Description is HTML code ",
+        "testRunName": "Test run 01",
+        "type": "Manual",
+        "desc": "<h1>Description for test run<\/h1>",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Create a test run, without HTML effect"
+    },
+    {
+        "name": "EC12: Environment is not exist",
+        "testRunName": "Test run 01",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "env03",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Raise error"
+    },
+    {
+        "name": "EC20: Tags is not in [Manual, Automation]\nEC23: Output is raise error",
+        "testRunName": "Test run 01",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Hybrid",
+        "tc": "Sample test case",
+        "expect": "Raise error"
+    },
+    {
+        "name": "EC25: Name is XSS code",
+        "testRunName": "<script>alert(\"XSS\")<\/script>",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Create a test run, without HTML effect"
+    },
+    {
+        "name": "EC27: Name is not ASCII text",
+        "testRunName": "Test run 01",
+        "type": "Manual",
+        "desc": "‎莊子",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Raise error"
+    },
+    {
+        "name": "EC29: Description is XSS code",
+        "testRunName": "Test run 01",
+        "type": "Manual",
+        "desc": "<script>alert(\"XSS\")<\/script>",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Create a test run, without HTML effect"
+    },
+    {
+        "name": "EC31: Description is not ASCII text",
+        "testRunName": "Test run 01",
+        "type": "Manual",
+        "desc": "‎莊子",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Raise error"
+    },
+    {
+        "name": "EC33: Test case in not in existing test case",
+        "testRunName": "Test run 01",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "100000000",
+        "expect": "Raise error"
+    },
+    {
+        "name": "EC34: Environment is Not set",
+        "testRunName": "Test run 02",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Not set",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Create a test run"
+    },
+    {
+        "name": "EC35: Environment is Develop",
+        "testRunName": "Test run 02",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Develop",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Create a test run"
+    },
+    {
+        "name": "EC36: Tag is Automation",
+        "testRunName": "Test run 02",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Develop",
+        "tags": "Automation",
+        "tc": "Sample test case",
+        "expect": "Create a test run"
+    },
+    {
+        "name": "Boundary analyst - Test run name - length = 0",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Raise error"
+    },
+    {
+        "name": "Boundary analyst - Test run name - length = 1",
+        "testRunName": "N",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Create a test run"
+    },
+    {
+        "name": "Boundary analyst - Test run name - length = 2",
+        "testRunName": "Na",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Create a test run"
+    },
+    {
+        "name": "Boundary analyst - Test run name - length = 254",
+        "testRunName": "This is a test text snippet with 254 characters, including spaces. The purpose of this text snippet is to allow you to verify that your system can correctly handle names with the maximum allowed length. You can copy and paste this text snippet into the n",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Create a test run"
+    },
+    {
+        "name": "Boundary analyst - Test run name - length = 255",
+        "testRunName": "This is a test text snippet with 255 characters, including spaces. The purpose of this text snippet is to allow you to verify that your system can correctly handle names with the maximum allowed length. You can copy and paste this text snippet into the na",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Create a test run"
+    },
+    {
+        "name": "Boundary analyst - Test run name - length = 256",
+        "testRunName": "This is a test text snippet with 256 characters, including spaces. The purpose of this text snippet is to allow you to verify that your system can correctly handle names with the maximum allowed length. You can copy and paste this text snippet into the nau",
+        "type": "Manual",
+        "desc": "Description for test run",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Raise error"
+    },
+    {
+        "name": "Boundary analyst - Description - length = 254",
+        "testRunName": "Test run 01",
+        "type": "Manual",
+        "desc": "This is a test text snippet with 254 characters, including spaces. The purpose of this text snippet is to allow you to verify that your system can correctly handle names with the maximum allowed length. You can copy and paste this text snippet into the n",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Create a test run"
+    },
+    {
+        "name": "Boundary analyst - Description - length = 255",
+        "testRunName": "Test run 01",
+        "type": "Manual",
+        "desc": "This is a test text snippet with 255 characters, including spaces. The purpose of this text snippet is to allow you to verify that your system can correctly handle names with the maximum allowed length. You can copy and paste this text snippet into the na",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Create a test run"
+    },
+    {
+        "name": "Boundary analyst - Description - length = 256",
+        "testRunName": "Test run 01",
+        "type": "Manual",
+        "desc": "This is a test text snippet with 255 characters, including spaces. The purpose of this text snippet is to allow you to verify that your system can correctly handle names with the maximum allowed length. You can copy and paste this text snippet into the na",
+        "env": "Testing",
+        "tags": "Manual",
+        "tc": "Sample test case",
+        "expect": "Raise error"
+    }
+]

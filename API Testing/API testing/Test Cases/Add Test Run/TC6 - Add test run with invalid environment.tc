@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6 - Add test run with invalid environment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90d175fd-b71b-4331-88dc-93121da44c2a</testCaseGuid>
+</TestCaseEntity>

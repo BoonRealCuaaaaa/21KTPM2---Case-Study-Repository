@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5 - Add test case with invalid status field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30577e4e-d508-414a-90fb-e3e36f175de0</testCaseGuid>
+</TestCaseEntity>

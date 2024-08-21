@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4 - Add test case with invalid project id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>693103c5-b4ce-4cae-82ec-a25cd584b79e</testCaseGuid>
+</TestCaseEntity>

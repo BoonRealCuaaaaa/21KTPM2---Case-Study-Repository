@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2 - Add defect without login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2f67c12-7e8c-4e31-8125-4f56f6c765ac</testCaseGuid>
+</TestCaseEntity>

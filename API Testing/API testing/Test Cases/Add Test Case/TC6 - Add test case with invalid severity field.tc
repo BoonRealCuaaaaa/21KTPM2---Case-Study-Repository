@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6 - Add test case with invalid severity field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e16d9b4-6757-4c9c-a14a-c46b4013fe5c</testCaseGuid>
+</TestCaseEntity>

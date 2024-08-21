@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12 - Add defect with string assignee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a95574d5-8b03-4d8e-b524-902b58bf2359</testCaseGuid>
+</TestCaseEntity>

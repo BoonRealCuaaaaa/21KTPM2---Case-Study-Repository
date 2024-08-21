@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11 - Add test case with long description</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>623e71e0-ca72-4ca6-8b76-0c9f396aa1ad</testCaseGuid>
+</TestCaseEntity>

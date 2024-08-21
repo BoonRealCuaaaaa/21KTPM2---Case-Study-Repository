@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC8 - Add defect with invalid assignee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2dbdf17-94e0-44a4-b9d8-1492419b6ba1</testCaseGuid>
+</TestCaseEntity>

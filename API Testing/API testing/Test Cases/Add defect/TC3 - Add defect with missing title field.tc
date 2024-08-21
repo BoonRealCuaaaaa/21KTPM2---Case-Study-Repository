@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3 - Add defect with missing title field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95ec84fd-eac3-4c66-9907-add11e66706f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5 - Add defect with invalid environment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8efd271c-ce8d-4d1d-adab-69f3eaa12e12</testCaseGuid>
+</TestCaseEntity>

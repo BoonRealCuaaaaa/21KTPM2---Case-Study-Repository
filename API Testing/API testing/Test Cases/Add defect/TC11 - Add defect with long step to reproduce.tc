@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11 - Add defect with long step to reproduce</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a920f988-6d1f-4ca5-b562-3319728d9404</testCaseGuid>
+</TestCaseEntity>

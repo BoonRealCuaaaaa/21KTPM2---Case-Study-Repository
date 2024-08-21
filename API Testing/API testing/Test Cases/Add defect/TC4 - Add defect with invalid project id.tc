@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4 - Add defect with invalid project id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0581201d-bd75-4c79-ab4e-7f749f358d25</testCaseGuid>
+</TestCaseEntity>

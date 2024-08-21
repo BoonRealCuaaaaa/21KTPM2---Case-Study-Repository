@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC9 - Add test case with missing project id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a9b5756-5879-4b4c-8a70-5f58a7b4c2fe</testCaseGuid>
+</TestCaseEntity>

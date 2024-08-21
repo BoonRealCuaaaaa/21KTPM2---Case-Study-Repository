@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC9 - Add test run with large title</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4456da19-b738-44d5-a2f5-60fe50c345f2</testCaseGuid>
+</TestCaseEntity>

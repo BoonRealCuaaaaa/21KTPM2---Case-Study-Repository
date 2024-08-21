@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC7 - Add test case with invalid priority field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>60387c2e-6488-47cf-979c-a3969c6b9022</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2 - Add test case when not login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7f89c67-a461-4553-9bdf-036dc6a459cc</testCaseGuid>
+</TestCaseEntity>

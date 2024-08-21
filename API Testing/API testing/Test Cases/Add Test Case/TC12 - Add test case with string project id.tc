@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12 - Add test case with string project id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2dc21b27-acd6-4dd2-888a-85c1551b7fb1</testCaseGuid>
+</TestCaseEntity>

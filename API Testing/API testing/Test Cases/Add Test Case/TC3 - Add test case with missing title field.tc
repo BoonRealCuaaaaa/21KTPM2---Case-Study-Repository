@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3 - Add test case with missing title field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a049755f-aa12-47bd-95d0-6e309edb30c7</testCaseGuid>
+</TestCaseEntity>

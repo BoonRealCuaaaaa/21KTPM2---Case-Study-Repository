@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC8 - Add test run with invalid test case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>02468042-8f1e-456c-bf94-fd55911e2047</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1 - Add defect with valid data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9cf34f46-f149-4cc8-bedc-3fad6c6b30a5</testCaseGuid>
+</TestCaseEntity>

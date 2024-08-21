@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC8 - Add test case with invalid suite</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>879dc5ed-d2d3-47e8-9c96-76a35a7f67f5</testCaseGuid>
+</TestCaseEntity>
